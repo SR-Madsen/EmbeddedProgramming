@@ -1,0 +1,1 @@
+"./adc.o" "./common.o" "./croutine.o" "./gpio.o" "./heap_2.o" "./leds.o" "./list.o" "./main.o" "./port.o" "./queue.o" "./startup_frt.o" "./systick_frt.o" "./tasks.o" -Wl,-T"../tm4c123gh6pm.lds" 
